@@ -1,8 +1,7 @@
-🚀 Windows Optimizer
+#Windows-Optimizer
+🚀 Optimize • Clean • Accelerate • Monitor
 
-⚡ Optimize and maintain your Windows PC with ease.
-
-Windows Optimizer is an all-in-one toolkit for improving performance, cleaning junk files, and monitoring system health.
+Windows Optimizer is an all-in-one toolkit for improving performance, cleaning junk files, and monitoring system health⚡🖥️.
 
 ✨ Features
 🧹 System Cleanup
